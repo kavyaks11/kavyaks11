@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img height="180" alt="github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaks11">
 <!--
 **kavyaks11/kavyaks11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
